@@ -1,4 +1,8 @@
 /MNIST
 /annotations
 /cityscapes
+/.ipynb_checkpoints
 archive.zip
+/tencho/cifar-10-python.tar.gz
+/tencho/cifar-10-batches-py
+/tencho/.ipynb_checkpoints
